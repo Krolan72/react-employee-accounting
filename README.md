@@ -1,17 +1,17 @@
 A small project to get to know React
 
-Getting Started-------------------------------------------------------
+<h2>Getting Started--------------------------------------------------------------</h2>
 
-first, download the dependencies 
+<h3>First, download the dependencies:</h3> 
 
-npm i
+<h5>npm i</h5>
 
-second, run the development server:
+<h3>Second, run the development server:</h3>
 
-npm start
+<h5>npm start</h5>
 
-Open http://localhost:3000 with your browser to see the result.
+<h4>Open http://localhost:3000 with your browser to see the result.</h4>
 
-Description------------------------------------------------------------
+<h2>Description-------------------------------------------------------------------</h2>
 
-A web application that allows you to track income, employee bonuses. It is also possible to mark the best employees. In addition, you can add or remove employees, as well as filter them.
+<p><i>A web application that allows you to track income, employee bonuses. It is also possible to mark the best employees. In addition, you can add or remove employees, as well as filter them.</i></p>
